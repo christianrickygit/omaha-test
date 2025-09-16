@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-mysqldb
+flask-caching
+flasgger
+flask-limiter
+numpy
+python-dotenv
+pytest
